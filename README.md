@@ -30,8 +30,8 @@
 
 - History
     - Version 1.0
-        ![PCB Ver1.0](./image/hw_ver1.0_1.jpg)
-        ![PCB Ver1.0](./image/hw_ver1.0_2.jpg)
+        ![PCB Ver1.0](./image/hw_ver1.0_1.jpg){: width="50%" height="50%"}
+        ![PCB Ver1.0](./image/hw_ver1.0_2.jpg){: width="50%" height="50%"}
     - Version 1.1
         - I2C 포트의 위치 변경
         - 홀 사이즈 변경
